@@ -71,7 +71,4 @@ El sistema auditado cumple con los objetivos de funcionamiento y persistencia de
 
 ---
 
-### 8. Evidencias
-
-Se incluyen en la carpeta `/evidencias/`:
 
