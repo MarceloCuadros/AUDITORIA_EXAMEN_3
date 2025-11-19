@@ -39,7 +39,6 @@ Auditar el sistema de Mesa de Ayuda con IA de Corporate EPIS Pilot para evaluar 
 - Configurar el entorno de desarrollo usando Docker y Ollama (smollm:360m).  
 - Levantar todos los servicios (`backend`, `frontend`, `proxy`) y comprobar que se comuniquen correctamente.  
 - Ejecutar pruebas de creación de tickets y verificación en la base de datos (`tickets.db`).  
-- Registrar evidencias en la carpeta `/evidencias/` incluyendo logs, pantallas y archivos relevantes.  
 
 ---
 
