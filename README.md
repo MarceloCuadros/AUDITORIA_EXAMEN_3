@@ -1,4 +1,4 @@
-# AUDITORIA_EXAMEN_3
+
 # AUDITORIA_EXAMEN_3
 
 **Repositorio del examen de auditoría de sistemas – Unidad III**  
@@ -47,10 +47,12 @@ Auditar el sistema de Mesa de Ayuda con IA de Corporate EPIS Pilot para evaluar 
 
 | Item | Descripción | Evidencia |
 |------|------------|-----------|
-| Sistema levantado | Backend, frontend y proxy funcionando correctamente | `/evidencias/01_sistema_levantado.png` |
-| Creación de ticket | Prueba de ticket creado vía endpoint `/ask` | `/evidencias/02_ticket_creado.png` |
-| Persistencia de DB | Verificación de tickets en `tickets.db` | `/evidencias/03_tickets_db.png` |
-| Logs y comunicación | Revisión de logs del backend y proxy | `/evidencias/04_logs.png` |
+| Sistema levantado | Backend, frontend y proxy funcionando correctamente | `<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/5dea8241-1bd0-477e-8e80-53dbf2611da0" />
+` |
+| Creación de ticket | Prueba de ticket creado vía endpoint `/ask` | `<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/36a3daba-6002-4226-a732-ae27e844197d" />
+` |
+| Logs y comunicación | Revisión de logs del backend y proxy | `<img width="743" height="413" alt="image" src="https://github.com/user-attachments/assets/22775f5a-dcb1-4e80-be13-a40477e5ab66" />
+` |
 
 ---
 
